@@ -32,6 +32,7 @@ Sleep & Stress: Increased gaming hours, particularly late at night, are associat
 Statistical Independence: Surprisingly, the correlation matrix shows very weak linear relationships (between **-0.03 and +0.03**) between gaming hours and stress/sleep. This suggests that the impact of gaming is highly individual and likely driven by time management rather than gaming alone.
 
  **Recommendations**
+ 
 Based on the data, the following habits are recommended for optimal performance:
 1. Limit Daily Hours: Adopt balanced habits to avoid mental fatigue and emotional strain.
 2. Protect Sleep Cycles: Avoid late-night sessions to maintain the concentration and memory retention needed for academic and work efficiency.
