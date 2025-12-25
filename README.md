@@ -20,7 +20,7 @@ Excel: Used for initial data inspection and cleaning column headers.
 **Key Findings**
  1. The Threshold of Gaming Intensity
 The analysis reveals that impact is not uniform but follows a threshold pattern:
-Low Intensity: Shows the highest potential for academic benefit, with a **38% positive impact. 
+Low Intensity: Shows the highest potential for academic benefit, with a 38% positive impact. 
 Moderate Intensity (1–3 hours): Serves as a "safe harbor" where 88% of users maintain neutral performance with minimal risk.
 High Intensity: The probability of a negative performance impact triples compared to the moderate group.
  2. Performance and Productivity
